@@ -2,7 +2,7 @@
 
 ## Impute Unemployment Benefits in US states
 
-The file `US_calc.m` allows to impute Unemployment Insurance Benefits for individuals and households residing in different US states.
+The file `US_UIBen.m` allows to impute Unemployment Insurance Benefits for individuals and households residing in different US states.
 
 So far, it covers the years 2000 to 2009 and two type of households
 - Two parent family with two children
