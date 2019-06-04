@@ -10,4 +10,4 @@ So far, it covers the years 2000 to 2009 and two type of households
 
 The file can be extended easily for additional years and households types.
 
-Its corresponding parameter file is available on request. Please contact me if you want to use it. 
+Its corresponding parameter file is available on request. Please note the text in the preamble of the file and contact me if you want to use it. 
